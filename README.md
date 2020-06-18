@@ -2,6 +2,8 @@
 ---
 https://github.com/cowboyd/less.rb
 
+http://lesscss.org/
+
 ```ruby
 parser = Less::Parser.new
 parser = Less::Parser.new :paths => ['./lib', 'other/lib'], :filenaem => 'mystyles.less'
